@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: test
+    active: dev
 
 --- 
 server:
@@ -11,7 +11,7 @@ server:
 spring:
   profile: dev
   applicaiton:
-    name: test-cloud-dev-2.0
+    name: test-cloud-dev-1.0
 
 
 
