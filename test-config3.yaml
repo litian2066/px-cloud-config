@@ -1,0 +1,3 @@
+spring:
+  applicaiton:
+    name: test-cloud-dev-3.0
