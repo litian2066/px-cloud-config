@@ -17,7 +17,7 @@ spring:
 
 ---
 
-spring:
-  profile: test
-  applicaiton:
-    name: test-cloud-dev-2.0      
+# spring:
+#   profile: test
+#   applicaiton:
+#     name: test-cloud-dev-2.0      
